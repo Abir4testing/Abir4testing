@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have experience as a QA Trainee.<br>Expertise :<br>1. Manual Testing (all kinds of manual testing)<br>2. Load Testing (Using Jmeter)<br>3. API Testing (Using Postman)<br>4. Jira (Task management, Bug life cycle)<br>5. Test Case preparation<br>6. Requirement Analysis<br>6. Basic knowledge of Selenium<br>7. Leadership<br>
+I have experience as a QA Trainee.<br>Expertise :<br>1. Manual Testing (all kinds of manual testing)<br>2. Load Testing (Using Jmeter)<br>3. API Testing (Using Postman)<br>4. Jira (Task management, Bug life cycle)<br>5. Test Case preparation<br>6. Requirement Analysis<br>7. Leadership<br>
 
 
 ## 🌐 Socials:
